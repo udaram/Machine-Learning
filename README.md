@@ -5,3 +5,4 @@ Linear Regression:
    --Model is trained with training data
    --Applying linear square fit method to predict the hypothetic function 
    --Hypothetic function using gradient descent algorithm for minimization of cost function
+   --Trainning data is taken from:- https://www.kaggle.com/andonians/random-linear-regression/version/2
