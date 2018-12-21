@@ -8,3 +8,6 @@ Linear Regression:
    --Trainning data is taken from:- https://www.kaggle.com/andonians/random-linear-regression/version/2
 Polynomial Regression:
    --Comparing polynomial regression on data set with linear regression
+Classification Algorithms
+   --K-nearest neighbours (KNN)
+   --Support vector machine(SVM)
