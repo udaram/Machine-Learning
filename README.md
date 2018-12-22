@@ -9,5 +9,5 @@ Linear Regression:
 Polynomial Regression:
    --Comparing polynomial regression on data set with linear regression
 Classification Algorithms
-   --K-nearest neighbours (KNN)
-   --Support vector machine(SVM)
+   --K-nearest neighbours (KNN) with implementation
+   --Support vector machine(SVM) with implementation
