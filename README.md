@@ -11,4 +11,10 @@ Polynomial Regression:
 Classification Algorithms
    --K-nearest neighbours (KNN) with implementation
    --Support vector machine(SVM) with implementation
-   --SVM Kernels and analysing the confidence we get from using different kerenls in SVM with OVO and OVR decisionn function 
+   --SVM Kernels and analysing the confidence we get from using different kerenls in SVM with OVO and OVR decisionn function       
+Logistic Regression:
+   --training the model
+   --visualising traning data and test data
+   --checking accuracy of model
+   
+   
