@@ -16,5 +16,10 @@ Logistic Regression:
    --training the model
    --visualising traning data and test data
    --checking accuracy of model
+Decision Tree Regression:
+
+Random Forest Regression:
+
+
    
    
